@@ -1,4 +1,4 @@
-package OOP;
+package OOP.HeroesAndEnemiesGame;
 
 public abstract class Hero implements Mortal {
 

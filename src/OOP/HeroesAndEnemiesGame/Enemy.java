@@ -1,4 +1,4 @@
-package OOP;
+package OOP.HeroesAndEnemiesGame;
 
 public class Enemy implements Mortal {
     private String name;

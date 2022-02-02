@@ -1,4 +1,4 @@
-package OOP;
+package OOP.HeroesAndEnemiesGame;
 
 public class Warrior extends Hero {
 

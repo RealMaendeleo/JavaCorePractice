@@ -1,4 +1,4 @@
-package OOP;
+package OOP.HeroesAndEnemiesGame;
 
 public class Zombie extends Enemy {
     private int rebornAmount;

@@ -1,4 +1,4 @@
-package OOP;
+package OOP.HeroesAndEnemiesGame;
 
 public class BattleGround {
     public static void main(String[] args) {

@@ -15,7 +15,7 @@ public class ATM {
 
     public static void main(String[] args) {
         ATM tinkoff = new ATM(45, 23622, 12);
-        tinkoff.withdrawMoney();
+        tinkoff.withdrawMoney(250);
     }
 
     public ATM(int twenties, int fifties, int hundreds) {
